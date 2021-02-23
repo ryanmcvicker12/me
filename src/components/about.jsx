@@ -11,10 +11,10 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am currently a student at Purdue Fort Wayne with B.S Computer Science as my major.I love exploring new technologies around Game development, Machine Learning, and Security. </p>
+                    <p>In the past year, I have become wildly interested in the world of open source software( OSS).The open-source platform acts as a bridge that helps me understand where some of the most impactful applications live in our connected world.</p>
                     </div>
                 </div>
                 </div>
@@ -27,7 +27,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">Heres what I know.</h2>
             </div>
             </div>
             <div className="row row-pt-md">
