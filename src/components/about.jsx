@@ -37,8 +37,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Programming Languages</h3>
+                    <p>Currently I have experience building applications with Java, Python, and C#, React, Flask, Unity3D, Git, Vim</p>
                 </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Quick Learned</h3>
+                    <p>When creating a new application, I am constantly picking up new technologies for the first time. Because of this, I have worked towards learning how to "learn" anything. Therefore I am confident in my abilities to adapt to anything in order to meet deadlines.</p>
                 </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Effective Communicator</h3>
+                    <p>I was surprised to find out the most impactful class for me so far was speech. I discovered that I had somewhat of a passion for giving speeches to my peers. Working as a team for the final project established confidence in my ability to communicate with peers, and accept constructive criticism from my partners about any contributions to the presentation.</p>
                 </div>
                 </div>
             </div>
