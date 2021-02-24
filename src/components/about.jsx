@@ -48,7 +48,7 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Quick Learned</h3>
+                    <h3>Quick Learner</h3>
                     <p>When creating a new application, I am constantly picking up new technologies for the first time. Because of this, I have worked towards learning how to "learn" anything. Therefore I am confident in my abilities to adapt to anything in order to meet deadlines.</p>
                 </div>
                 </div>
